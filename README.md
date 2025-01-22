@@ -26,9 +26,8 @@ Full-Stack live tv web application built using react js and laravel .
   
  
 
-## Sneak Peek of Admin Dashboard 🙈 :
-![Capture](https://user-images.githubusercontent.com/64949957/153995268-0cb769b9-e0ee-48ea-83c1-09b881df4101.PNG)
-
+## Sneak Peek of application 🙈 :
+ 
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/nikhilmv/uhdtv-react-livetv/refs/heads/main/react-livetv/screenshots/Screenshot%202025-01-22%20143425.png" alt="mockup" /></td>
@@ -36,7 +35,7 @@ Full-Stack live tv web application built using react js and laravel .
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/nikhilmv/uhdtv-react-livetv/refs/heads/main/react-livetv/screenshots/Screenshot%202025-01-22%20143630.png" alt="mockup" /></td>
-    <td><img src="" alt="mockups" /></td>
+ 
   </tr>
 </table>
 
