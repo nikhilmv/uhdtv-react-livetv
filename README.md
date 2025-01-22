@@ -3,6 +3,10 @@
 # uhdtv-react-livetv
 Full-Stack live tv web application built using react js and laravel .
 
+
+![Capture](https://raw.githubusercontent.com/nikhilmv/uhdtv-react-livetv/refs/heads/main/react-livetv/screenshots/logo.jpg)
+
+
 <!-- [Visit Now](https://flipkartweb-mern.vercel.app) 🚀 -->
 
 ## 🖥️ Tech Stack
