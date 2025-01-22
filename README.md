@@ -4,8 +4,8 @@
 Full-Stack live tv web application built using react js and laravel .
 
 
-![Capture](https://raw.githubusercontent.com/nikhilmv/uhdtv-react-livetv/refs/heads/main/react-livetv/screenshots/logo.jpg)
-
+![Capture]()
+<img src="https://raw.githubusercontent.com/nikhilmv/uhdtv-react-livetv/refs/heads/main/react-livetv/screenshots/logo.jpg"  style="max-width: 50%;" alt="mockup" />
 
 <!-- [Visit Now](https://flipkartweb-mern.vercel.app) 🚀 -->
 
