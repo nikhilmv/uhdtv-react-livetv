@@ -1,9 +1,9 @@
 
 
 # uhdtv-react-livetv
-Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
+Full-Stack live tv web application built using react js and laravel .
 
-[Visit Now](https://flipkartweb-mern.vercel.app) 🚀
+<!-- [Visit Now](https://flipkartweb-mern.vercel.app) 🚀 -->
 
 ## 🖥️ Tech Stack
 **Frontend:**
